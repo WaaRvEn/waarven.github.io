@@ -1,8 +1,8 @@
 ---
-title: The Great Destroyer
+title: DONDE QUIERO ESTAR
 layout: post
-background: https://cdna.artstation.com/p/assets/images/images/002/187/704/large/teun-van-der-zalm-ncu001-13d.jpg
-subtitle: Time to meet the creator.
+background: '/img/DQE.jpg'
+subtitle:  Lugar donde me siento cómodo, pero también  dónde quiero estar musicalmente.
 artist: artstation.com/teunvanderzalm
 ---
 
