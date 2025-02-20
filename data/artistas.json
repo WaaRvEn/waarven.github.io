@@ -1,0 +1,22 @@
+[
+    {
+        "NOMBRE":"DUKI",
+        "EDAD": 26,
+        "PAIS":"ARGENTINA"
+    },
+    {
+        "NOMBRE":"QUEVEDO",
+        "EDAD":23,
+        "PAIS":"ESPAÑA"
+    },
+    {
+        "NOMBRE":"MILO J",
+        "EDAD":18,
+        "PAIS":"ARGENTINA"
+    },
+    {
+        "NOMBRE":"RAMMA",
+        "EDAD":20,
+        "PAIS":"ARGENTINA"
+    }
+]
