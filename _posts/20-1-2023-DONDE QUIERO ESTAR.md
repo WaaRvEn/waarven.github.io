@@ -1,7 +1,7 @@
 ---
 title: DONDE QUIERO ESTAR
 layout: post
-background: https://cdna.artstation.com/p/assets/images/images/002/187/704/large/teun-van-der-zalm-ncu001-13d.jpg
+background: '/img/Donde quiero estar.jpg'
 subtitle:  Lugar donde me siento cómodo, pero también  dónde quiero estar musicalmente.
 artist: artstation.com/teunvanderzalm
 ---
