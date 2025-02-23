@@ -1,7 +1,7 @@
 ---
 title: INMORTAL
 layout: post
-background: '/img/INMORTAL.jpg'
+background: '/img/Inmortal.jpg'
 subtitle: Deseo de eternizar el arte, dejando una huella imborrable en la historia de la musica.
 artist: artstation.com/teunvanderzalm
 ---

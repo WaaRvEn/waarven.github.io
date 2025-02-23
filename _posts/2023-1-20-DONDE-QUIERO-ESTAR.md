@@ -2,7 +2,7 @@
 title: DONDE QUIERO ESTAR
 layout: post
 background: '/img/DQE.jpg'
-subtitle:  Lugar donde me siento cómodo, pero también  dónde quiero estar musicalmente.
+subtitle:  Lugar donde me siento cómodo, pero también dónde quiero estar musicalmente.
 artist: artstation.com/teunvanderzalm
 ---
 

@@ -30,10 +30,6 @@ layout: default
         {{ content }}
 
         <!-- Home Post List -->
-        {% for post in site.posts limit : 10 %}
-
-          <article class="post-preview">
-            <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
               <div class="post-container">
                 <div class="post-img-container">
                   <img class="post-img" src={{post.background}}>
@@ -52,14 +48,6 @@ layout: default
                   {% endif %}
                 </div>
               </div>
-            </a>
-          </article>
-
-          <hr>
-
-        {% endfor %}
-
-
       </div>
     </div>
   </div>

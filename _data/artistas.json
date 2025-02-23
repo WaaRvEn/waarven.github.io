@@ -1,0 +1,32 @@
+[
+    {
+        "nombre":"DUKI",
+        "edad": 26,
+        "pais":"ARGENTINA"
+    },
+    {
+        "nombre":"QUEVEDO",
+        "edad":23,
+        "pais":"ESPAÑA"
+    },
+    {
+        "nombre":"MILO J",
+        "edad":18,
+        "pais":"ARGENTINA"
+    },
+    {
+        "nombre":"RAMMA",
+        "edad":20,
+        "pais":"ARGENTINA"
+    },
+    {
+        "nombre":"SAIKO",
+        "edad":22,
+        "pais":"ESPAÑA"
+    },
+    {
+        "nombre":"KYOTTO",
+        "edad":29,
+        "pais":"ESPAÑA"
+    }
+]
