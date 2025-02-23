@@ -4,6 +4,7 @@ layout: post
 background: '/img/Inmortal.jpg'
 subtitle: Deseo de eternizar el arte, dejando una huella imborrable en la historia de la musica.
 artist: artstation.com/teunvanderzalm
+artista: Ramma
 ---
 
 He was staring into absolute darkness.Nothing else, just plain void. There was no sound, no smell, no sight, no sense of  touch either. He felt weightless, spaceless. But behind him was something he didn't want to see. He knew he had finally reached his 'destiny'. And he was scared to see what the creator looked like.

@@ -4,6 +4,7 @@ layout: post
 background: '/img/Por-si-no-vuelvo-a-casa.jpg'
 subtitle: Sentimiento cada vez que viajas, salir de casa, todas las preguntas o las situaciones que se plantean, pensamientos intrusivos, ansiedad.
 artist: artstation.com/teunvanderzalm
+artista: Kyotto
 ---
 
 He was staring into absolute darkness.Nothing else, just plain void. There was no sound, no smell, no sight, no sense of  touch either. He felt weightless, spaceless. But behind him was something he didn't want to see. He knew he had finally reached his 'destiny'. And he was scared to see what the creator looked like.
