@@ -1,0 +1,14 @@
+---
+layout: artistas
+permalink: /PAGINA2
+title: PAGINA2
+background: '/img/bg-about.jpg'
+---
+
+<ul>
+    {% for alumno in site.data.alumnos %}
+    <li>
+        Nombre: {{ alumno.nombre }} Apellidos: {{ alumno.apellidos }}
+    </li>
+    {% endfor %}
+</ul>
